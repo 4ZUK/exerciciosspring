@@ -13,7 +13,7 @@ import javax.validation.constraints.NotNull;
 @Table(name="TB_CUPOM")
 public class User {
 
-	
+
 
 
 }
